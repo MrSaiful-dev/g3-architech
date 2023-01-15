@@ -1,5 +1,10 @@
 /* defaul styles  */
-
+/* :root{
+    --backgroundColor:#FFF4E7;
+    --yelowColor: #FF900E;
+    --peragraphTextColor:rgb(133, 131, 131);
+    --headlineColor:#1E1E1E;
+} */
 
 *{
     margin: 0;
